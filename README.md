@@ -3,13 +3,13 @@
 <p>My settings, snippets, and hotkeys for VScode.</p>
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/Yuria-Developer/VScode-Settings/blob/main/settings.json">
     <img src="https://img.shields.io/badge/Settings-1a1e24?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=1a1e24&color=2d2f36" alt="Settings">
   </a>
-  <a href="">
+  <a href="https://github.com/Yuria-Developer/VScode-Settings/tree/main/snippets">
     <img src="https://img.shields.io/badge/Snippets-1a1e24?style=for-the-badge&logo=visualstudiocode&logoColor=9B59B6&labelColor=1a1e24&color=2d2f36" alt="Snippets">
   </a>
-  <a href="">
+  <a href="https://github.com/Yuria-Developer/VScode-Settings/blob/main/keybindings.json">
     <img src="https://img.shields.io/badge/Keybindings-1a1e24?style=for-the-badge&logo=keyboard&logoColor=2ECC71&labelColor=1a1e24&color=2d2f36" alt="KeyBindings">
   </a>
 </p>
